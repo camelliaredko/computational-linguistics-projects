@@ -1,0 +1,875 @@
+Skipped FRASL string in contextSkipped FRASL string in contextSkipped FRASL string in contextSkipped FRASL string in contextThere are 218 errors!
+----------------------------
+
+1) example number: 2
+    sentence: but lawmakers and the industry are finding that writing dial-it regulations that stand up to scrutiny is as hard as nailing jell-o to the wall . phone companies , as regulated common carriers , can 't always simply stop doing business with LINES they deem offensive . southwestern bell tried to quit billing for gab lines by arguing that the state rules authorizing its dial-it services covered taped messages , not live talk .
+    guess: cord;  label: phone
+
+2) example number: 5
+    sentence: ms . ellerbee also reports that she spun around and warned the woman she was going to steal that . this is , needless to say , not exactly the same as appropriating a LINE and then delivering it in tones brimful of the pride of authorship -- in a keynote address . ms . ellerbee learned in advance that ms . richards was planning to use the line , whereupon she inquired as to whether ms . richards was planning to cite the source .
+    guess: formation;  label: text
+
+3) example number: 13
+    sentence: in another , two clients had soaked their clothes on a previous great america water ride . " the LINE they were in was in shade , so they stood off to the side in the sun to dry their clothes , " says mr . ince . when they tried to reclaim their place in line , however , security guards nabbed them and , with little explanation , turned them over to city police who drove them in a paddy wagon for booking at the city jail , the suit alleges .
+    guess: cord;  label: formation
+
+4) example number: 16
+    sentence: " he followed the fourth one out of sight . the last i saw he was running the LINE through his hand .
+    guess: phone;  label: cord
+
+5) example number: 21
+    sentence: " a two-pound bass on a fly-rod is more fun than a six-pounder on a bait-casting rod , " said mr . kruger . " because the rod is so long and you hold the LINE directly in your fingers , you can feel every little fin vibration a bass makes . "
+    guess: division;  label: cord
+
+6) example number: 35
+    sentence: one miscalculation or false move could have knocked the h-bomb off the ledge into deeper water , possibly spilling its deadly contents out and poisoning the mediterranean sea over a vast area for many years . by means of a special navy-developed underwater recovery apparatus , lifting LINES were successfully attached to the h-bomb , bringing it undamaged to the surface .
+    guess: text;  label: cord
+
+7) example number: 40
+    sentence: the king had no success and was just about to abandon his efforts when nell with a sprightly laugh urged him : " but see , sire , you have got a bite at last . " sure enough , when the king pulled in his rod , he found half a dozen fried smelts at the end of the LINE , tied to his hook with a silken thread .
+    guess: phone;  label: cord
+
+8) example number: 44
+    sentence: " there 's nothing ( really good that 's ) american , " says alex gonzalez , an assistant manager , after listing the virtues of an expensive german brand . of the store 's best american LINE , he says sadly , " the steel is good , but there 's a problem with the handle .
+    guess: division;  label: product
+
+9) example number: 46
+    sentence: freddy reached into the box and brought out a small fishing rod in three sections . he fitted two of them together , strung the LINE along its length , and then , dropping the whole apparatus through the open pane , extended it over the next tank and lowered the hooks .
+    guess: phone;  label: cord
+
+10) example number: 48
+    sentence: separately , ford said its australian unit and nissan 's australian unit are discussing the possibility of jointly selling certain models in australia . the discussions are a response to the australian government 's plan to limit the number of car LINES produced in that country .
+    guess: phone;  label: product
+
+11) example number: 51
+    sentence: the district will get 60 % of the royalties from the licensing arrangement . the clothing , made by great southern co . , macon , ga . , comes in a rainbow of " trendy yet unique " colors , including bright orange , hot pink , turquoise and chartreuse , said shannon richey of san diego-based lucas enterprises inc . , which is helping to market and promote the LINE .
+    guess: cord;  label: product
+
+12) example number: 55
+    sentence: essex also plans to sell its baltimore phosgene chemicals plant ; the spokesman said the company hasn 't yet found a buyer . essex also said it plans to sell write off or write down certain venture capital LINES .
+    guess: cord;  label: product
+
+13) example number: 57
+    sentence: they never went where they could not ride . thinking of the days of waiting on the riverbank , i wished i had provided him with hooks and a LINE .
+    guess: product;  label: cord
+
+14) example number: 58
+    sentence: the company said it acquired 15 products with annual sales totaling less than $ 10 million and will market them in west germany . among them are a LINE of topical antirheumatics , which are products to ease arthritis-like pain , and a line of topical and oral acne treatments .
+    guess: formation;  label: product
+
+15) example number: 60
+    sentence: and most standard software isn 't yet suited for hard-core commercial computing , such as on - LINE transaction processing . typical transaction-processing tasks , in which hundreds of terminals interact with a database , include airline reservations , on-line retail-sales tracking and bank teller networks , and such operations are a prime target for the vax line , especially the 9000 .
+    guess: phone;  label: product
+
+16) example number: 69
+    sentence: new businesses that officials expect to contribute to future sales and profit include waste-to-energy systems , hazardous - and toxic-waste cleanups , business communications , space commercialization and electronic security systems for nuclear plants . these LINES currently have sales of about $ 50 million and are expected to contribute $ 300 million to $ 500 million in sales by 1989 .
+    guess: text;  label: product
+
+17) example number: 73
+    sentence: separately , a federal appeals court in new york dealt the dial-a-porn business another setback , affirming long-contested regulations that make it harder to dial raunchy phone tapes . the two developments are the latest shots in a bitter battle over dial-a-porn , which is becoming widespread both on at & t and local phone-company LINES .
+    guess: product;  label: phone
+
+18) example number: 80
+    sentence: the machines " are crucial for prime . they had a need to expand their LINE , " said richard mikita , an analyst with market researcher international data corp . , framingham , mass .
+    guess: text;  label: product
+
+19) example number: 81
+    sentence: the fanfare will be big because silverlake 's market is potentially huge . the machine will be a new model in ibm 's unglamorous but sturdy 3x LINE , with 275 , 000 current customers making the line one of the best-selling computer families ever outside the pc world .
+    guess: division;  label: product
+
+20) example number: 90
+    sentence: a recent seminar in mexico city began with discussions of martin luther king jr . , and ended with practical exercises . in one , the students formed a human chain , while their teacher played the role of a counterdemonstrator crashing into the LINE .
+    guess: phone;  label: formation
+
+21) example number: 92
+    sentence: even devoted players finally grew bored as the latest games stopped offering anything new . nowadays , marketers are working to prevent a glut by pulling older LINES off the shelf as more games are introduced .
+    guess: cord;  label: product
+
+22) example number: 93
+    sentence: kurzweil , waltham , mass . , makes digital electronic keyboard instruments used by professional recording musicians . it recently introduced a LINE for the home market .
+    guess: formation;  label: product
+
+23) example number: 95
+    sentence: shipments of two of the three amiga models began only this year . mr . gould said sales also were strong for another LINE , its pc-compatible computers .
+    guess: phone;  label: product
+
+24) example number: 97
+    sentence: our run today is through a canyon , with ragged , broken walls , many lateral gulches or canyons entering on either side . the river is rough , and occasionally it becomes necessary to use LINES in passing rocky places .
+    guess: product;  label: cord
+
+25) example number: 99
+    sentence: but even the improved american prospects didn 't turn this event into a gate attraction . on saturday , when the sun shone brightly and temperatures were in the 50s , the LINE of cars trying to get into a car wash across the highway from the 400-meter oval at the wisconsin state fairgrounds was longer than that seeking admission to the races .
+    guess: product;  label: formation
+
+26) example number: 101
+    sentence: advertising agency j . walter thompson co . , which has endured a string of recent account losses , yesterday lost pepsico inc . 's slice soft drink LINE .
+    guess: cord;  label: product
+
+27) example number: 106
+    sentence: it is appropriate to ask whether , in our contemporary , deregulated transportation environment , the law promotes or encumbers public-interest considerations ; whether nothing more is needed than to transfer the two industries to the other law ; or whether , in an attempt to change , the collision of special interests in congress might reshuffle the deck in some unpredictable way that would not serve either the public or the industries . for people who have invested their careers in one or the other of the railway labor act industries , these are profound questions that deserve more than a throwaway LINE in what is otherwise a constructive editorial .
+    guess: division;  label: text
+
+28) example number: 111
+    sentence: but federal officials charge that some of the companies are going too far . " when you 're misleading the public , there 's a LINE . most of these groups go way over the line , " says philip gambino , a spokesman for the social security administration .
+    guess: text;  label: division
+
+29) example number: 112
+    sentence: but instead of melting the cookies over an open fire , they go into a microwave oven . most of the other products are simply LINE extensions of existing best-sellers that don 't represent much of an innovative gamble .
+    guess: phone;  label: product
+
+30) example number: 114
+    sentence: that shift intensified after last october 's stock market crash . cluett " seemed to have had the LINE misstriped and miscolored , " says an executive at a rival , who credits cluett 's mistake for a 15 % to 20 % rise in his own sales .
+    guess: cord;  label: product
+
+31) example number: 115
+    sentence: we spend the whole day on the water . pascal fishes with a LINE that has a number of hooks on it .
+    guess: text;  label: cord
+
+32) example number: 117
+    sentence: tropicana products inc . fired another volley in the orange juice wars , accusing coca-cola co . 's foods division of false and deceptive advertising in a lawsuit filed in u . s . district court in new york . at issue is a LINE used in advertising for coca-cola 's new minute maid premium choice orange juice that describes the pasteurized product as " orange juice straight from the orange . " bradenton , fla . - based tropicana , a unit of seagram co . , claims the line violates an earlier appeals court ruling in favor of atlanta-based coca-cola against tropicana .
+    guess: phone;  label: text
+
+33) example number: 120
+    sentence: basically , this is because the noise is eliminated in the process of converting the signal into light pulses . the result is that noise generated at the sending end isn 't transmitted , and there is no " LINE noise " as such .
+    guess: text;  label: phone
+
+34) example number: 121
+    sentence: individuals familiar with regina noted that the stutz cleaner hadn 't been introduced until after the close of the company 's 1988 fiscal year ; the company has withdrawn financial figures for that period as materially incorrect . nevertheless , the difficulties with the stutz LINE suggest other possible problems for dealers caused by faulty equipment .
+    guess: cord;  label: product
+
+35) example number: 126
+    sentence: as foolish as the question may seem , rep . wyden 's bill is sillier still . we might avoid much legislative nonsense if he and other congressmen would learn a basic truth of economics : any attribution of costs , and therefore profits , to different LINES in a multi-product firm is entirely arbitrary .
+    guess: text;  label: product
+
+36) example number: 127
+    sentence: he said that for every quarter in which the fcc fails to make a decision , the company 's earnings will be reduced . however , he said that even if the fcc didn 't certify the readers , and the company was forced to eliminate the LINE , checkpoint still wouldn 't sustain a loss .
+    guess: division;  label: product
+
+37) example number: 128
+    sentence: and while mr . herbert says he expects the company to grow internally , he says he also expects it to " be aggressively looking for acquisitions that will dramatically expand the business . " while the unit has always looked for acquistions , he says , now it likely will be looking more broadly than just at LINES that supplement minute maid 's chilled or frozen business .
+    guess: text;  label: product
+
+38) example number: 129
+    sentence: similarly , at & t blames the breakup of the bell system for lack of certain services that use a separate signaling network within the nation 's phone system . this network is used within at & t 's long-distance LINES to send the phone number separately from the call itself , enabling at & t to keep from sending calls to places where lines are busy .
+    guess: product;  label: phone
+
+39) example number: 133
+    sentence: ltv also took a $ 30 million special charge on its exit from the medium and heavy military truck business . ltv announced last month that its am general division would discontinue those LINES so it could concentrate on its u . s . army contract for the hummer high mobility vehicle , which will be opened for a rebid next year .
+    guess: cord;  label: product
+
+40) example number: 138
+    sentence: not surprisingly , the market 's strong sales are attracting big food processors . carnation co . , for example , is racing to build a national presence with its contadina fresh pasta & cheese LINE .
+    guess: phone;  label: product
+
+41) example number: 142
+    sentence: he removed the tape and the glass , setting them carefully on the roof next to the molding . at the same time , sally opened a small metal box she had been carrying and took out a long LINE with several fishhooks tied to one end .
+    guess: formation;  label: cord
+
+42) example number: 144
+    sentence: he made him the gardener of the kingdom , to drive away the sparrows from the king 's head . 48 . old hiram 's goat was feeling fine , ate three red shirts right off the LINE .
+    guess: phone;  label: cord
+
+43) example number: 149
+    sentence: " we haven 't figured out yet how to handicap the games , or how to handle the situation , " says john fitzgerald , president of the hilton hotel-casino . " if some people cross the LINE and make a particular team look strong . . . that 'll make a big difference . "
+    guess: cord;  label: division
+
+44) example number: 150
+    sentence: " i 'll tell you what , " she volunteered . " we 'll put a test on your LINE , and i 'll let you know what happens . "
+    guess: cord;  label: phone
+
+45) example number: 151
+    sentence: kraft inc . said it completed the previously reported acquisition of the anderson clayton foods division from quaker oats co . for $ 235 million . the glenview , ill . - based food concern said the unit , which includes the chiffon margarine and seven seas salad dressing LINES , had sales of $ 433 million in fiscal 1986 .
+    guess: formation;  label: product
+
+46) example number: 152
+    sentence: but putting the celestial seasonings imprimatur on mixed seasonings , salad dressings -- and even cosmetics -- proved a blunder . last year , with celestial barely profitable despite $ 38 million of sales , kraft sold the LINE to a management group .
+    guess: phone;  label: product
+
+47) example number: 157
+    sentence: to break the record , the dancers will have to follow certain rules , says david hoy , managing director of the record book 's editorial offices in middlesex , england . at least 10 , 443 people will have to actually dance -- hands on hips to a syncopated latin rhythm -- and the LINE will have to remain unbroken .
+    guess: text;  label: formation
+
+48) example number: 159
+    sentence: megaquest is also a big player in the clean side of the dial-it market , such as taped jokes . but its biggest business is in the industry 's hottest and most controversial new area : the " gab " LINE , a service that dozens of people can dial at once to talk to one another . gab lines bring in about 70 % of megaquest 's revenue . about three-fourths of all the 400-odd gab lines in the u . s . today are megaquest 's , mr . eisenberg says .
+    guess: text;  label: phone
+
+49) example number: 160
+    sentence: when the time came to launch , we were able to paddle into a flat ocean between wave sets . then our little fleet reassembled offshore near a kelp bed , where we learned to hook the bow LINES of our boats to the living kelp : you take your anchors where you find them in this life .
+    guess: product;  label: cord
+
+50) example number: 161
+    sentence: actors dressed in raisin costumes marched in the macy 's thanksgiving day parade in new york , and a raisin conga LINE danced at the white house christmas tree lighting ceremony , even upstaging a certain former actor . there are 55 licensees for products based on the raisin characters ( for which mr . vinton does not hold the rights ) , and kiddies from coast to coast are gobbling up various items of raisin-decorated garb , as well as collecting a line of plastic raisin figurines -- each raisin bearing a name to make it more personable , lovable , buyable .
+    guess: cord;  label: product
+
+51) example number: 166
+    sentence: in boulder , bob gall , general manager of blue mountain arts , said the company is elated that its creative designs are protected and that " we can get back to publishing cards without fear of being copied . " mr . gall said blue mountain publishes about 100 different cards under the LINES it had charged hallmark with copying .
+    guess: phone;  label: product
+
+52) example number: 169
+    sentence: there was no wind , the tide was high , and the schooner floated . casting off the shore LINES , i kedged her out by main strength , the windlass being broken , till she rode nearly up and down to the small anchor too small to hold her in any breeze .
+    guess: phone;  label: cord
+
+53) example number: 172
+    sentence: orange-co inc . , a citrus grower , processor and shipper , acquired its first juice LINE by purchasing premium juices of florida inc . , lakeland , fla .
+    guess: formation;  label: product
+
+54) example number: 175
+    sentence: one of nasdaq 's technological innovations -- its trans-pacific link with singapore -- went on the blink , and some traders half-jokingly groused that volume might have been slightly stronger otherwise . nasdaq said the link with sesdaq ( stock exchange of singapore dealing and automated quotations system ) was suspended yesterday morning because of LINE problems in the u . s . introduced in march , the link allows nasdaq and sesdaq to exchange quotes on about 35 nasdaq securities traded in both markets .
+    guess: cord;  label: phone
+
+55) example number: 182
+    sentence: at minneapolis-based dayton hudson corp . , same-store sales rose 6 . 9 % for july and 5 . 9 % for the 26 weeks . " the month 's sales growth was led by soft LINES , " said kenneth a . macke , chairman and chief executive officer .
+    guess: phone;  label: product
+
+56) example number: 191
+    sentence: more than half the industrial systems and services revenue came from the oil-service business . litton said it hasn 't any plans to shed the petroleum services LINES , and added that the venture with dresser " represents an expansion of the business . " litton said the atlas division of dallas-based dresser is involved with oil well logging ( measuring ) services that would complement litton 's current seismic exploration , reservoir description , core analysis and data interpretation lines .
+    guess: phone;  label: product
+
+57) example number: 196
+    sentence: in numerous flashback scenes , we see him brutalizing his wife , his son , and his daughter , elena . since it 's impossible to judge the literary quality of a play when its LINES are being simultaneously translated via headphones , it 's hard to know if " renidero " is really as didactic as it seemed to me .
+    guess: division;  label: text
+
+58) example number: 199
+    sentence: she added her own touch -- a special holster allowing the gun to be fired without removing it from the purse -- and has since sold hundreds . still , the new fashion LINE doesn 't appeal to everyone .
+    guess: text;  label: product
+
+59) example number: 200
+    sentence: mr . coate was on the water but a few minutes when he said , " here they are . . . let 's catch some of 'em . " LINES were lowered and soon one of the rods sprang to life , and a shiny bronze walleye was swung on board .
+    guess: text;  label: cord
+
+60) example number: 209
+    sentence: the teas , sold in highly decorated boxes with philosphical quotes printed on them , have names like red zinger , morning thunder and mandarine orange spice . the company had grown considerably in the past three years , adding several new tea LINES , but the relaxed , informal atmosphere has been maintained , the kraft spokeswoman said .
+    guess: phone;  label: product
+
+61) example number: 214
+    sentence: the party - LINE effect could defeat that . officials of telaction say if lines get jammed there is a built-in queuing function to call a customer to the phone when it 's his or her turn to shop .
+    guess: product;  label: phone
+
+62) example number: 216
+    sentence: fatimata sanga , the elderly woman cast as yaaba ( which means grandmother ) , is stringy , bald and toothless , yet she carries herself with an ethereal gracefulness . at a news conference , mr . ouedraogo said the script -- which is credited to him -- had to conform to ms . sanga 's inability to remember LINES , or much of anything else .
+    guess: division;  label: text
+
+63) example number: 221
+    sentence: tipped off that mr . willaby is " noodling " -- catching fish illegally by snagging them in the gills or flesh -- two wildlife officials follow the 250-pound fisherman out to cedar creek lake here . they watch him dive under water with a fishing pole and a very short LINE and catch two flathead catfish , one 25 pounds and the other 30 pounds .
+    guess: division;  label: cord
+
+64) example number: 222
+    sentence: the committee 's civilian anti-crime squads have stopped their nightly patrols . residents say they miss the committee 's weekend soup LINES , which enriched their diets of rice , beans and bananas .
+    guess: product;  label: formation
+
+65) example number: 225
+    sentence: " now that 's panic time , for tv 's cardinal rule is : the programs must end on time ! i punched a button opening my LINE to joe behar , the director in colorado : " joe , we 've got to stretch .
+    guess: cord;  label: phone
+
+66) example number: 232
+    sentence: a spokesman for the judge said friday that she had approved the transaction . the LINES and the factories where they are produced are being sold to hasbro inc . and slm action sports inc .
+    guess: cord;  label: product
+
+67) example number: 235
+    sentence: " all right , you red lobsters , avast there , " he bellowed . " throw your captain a LINE and help haul me aboard .
+    guess: product;  label: cord
+
+68) example number: 236
+    sentence: cars marketed as the geo metro is have altered the way the epa breaks down the fuel-economy lists . because of the increasing number of auto LINES that spring , as the geo metro does , from u . s . - foreign joint ventures , the epa no longer bothers to compile its list of the most fuel-efficient u . s . cars .
+    guess: phone;  label: product
+
+69) example number: 243
+    sentence: that produced a return of $ 2 . 40 on a $ 2 win bet and made such tickets as valuable as souvenirs as in bills and coins . payout-window LINES , however , indicated that most winners were cashing theirs .
+    guess: division;  label: formation
+
+70) example number: 244
+    sentence: all animal life was new and full of wonder for jim as much as for chet , and he longed to see a fish , to touch its scaly sides , to examine its gills . but when ten minutes had passed without a nibble on chet 's LINE , jim started to give up hope .
+    guess: phone;  label: cord
+
+71) example number: 249
+    sentence: " i 'm not sure you want to freshen your breath with the same stuff you use to freshen your refrigerator . " but church & dwight believes LINE extensions like the toothpaste are critical to arm & hammer 's growth .
+    guess: cord;  label: product
+
+72) example number: 251
+    sentence: since no one else was interested in handling the project , the district manager let her take it on in addition to her other responsibilities . when she succeeded with that LINE , she took on several other small products .
+    guess: text;  label: product
+
+73) example number: 252
+    sentence: mr . o 'neill may be the sort of man who watched " general electric theatre , " but even retirement has not mellowed his view of ronald reagan , who entered politics in a fashion alien to mr . o 'neill and who dominated washington in the years of his speakership . " most of the time he was an actor reading LINES , who didn 't understand his own programs , " mr . o 'neill writes .
+    guess: product;  label: text
+
+74) example number: 253
+    sentence: a spokesman said the planned transaction doesn 't forestall other acquisitions by avon for its beauty or health care operations . for one thing , he said , the company continues to be " very interested " in the elizabeth arden LINE that eli lilly & co . , indianapolis , has said it wants to sell .
+    guess: text;  label: product
+
+75) example number: 266
+    sentence: but in moving against such clones as epson , ibm may be applying more immediate pressure through its new , tighter approach to pc dealers . big blue is restricting the number of dealers -- now totaling 2 , 300 for the old LINE -- that will be authorized to sell the newest and highest-priced products by creating a special class of retailer .
+    guess: text;  label: product
+
+76) example number: 270
+    sentence: meanwhile , glen ellen proprietor 's reserve sales continue to soar . the LINE has now expanded to include a select dry white , sauvignon blanc , merlot and white zinfandel .
+    guess: division;  label: product
+
+77) example number: 271
+    sentence: a decade after its betamax home-video format lost out to rival vhs , sony corp . of america , a unit of the japanese consumer-electronics giant , is trying to force its way back into the video limelight with its 8mm format , launched four years ago . sony hopes to popularize " video 8 " through the concept of " personal video " -- video wherever you go -- as exemplified by its video walkman LINE : tiny battery-operated color mini-tvs with built-in videocassette recorders .
+    guess: text;  label: product
+
+78) example number: 276
+    sentence: finally , of course , the boss gives in , but he 's still yelling : " i find myself explaining anything to teddy kennedy , you 'll be chasing stolen cars in anchorage . " in fact , throughout " mancuso fbi , " we don 't get words or LINES -- we get speeches .
+    guess: phone;  label: text
+
+79) example number: 286
+    sentence: the final quarter , which ended jan . 2 , should carry more than half of the expected 1987 earnings of about $ 6 . 4 million , or 90 cents a share . full-year sales -- not including the kaepa shoe LINE that the company sold last year -- should total $ 313 million , down slightly from $ 319 million .
+    guess: text;  label: product
+
+80) example number: 290
+    sentence: the boom leans perilously over the side ; the deck slants ; a bucket bangs against the rail . now a man jerks a slender trip-wire following the LINE from deck to whale .
+    guess: text;  label: cord
+
+81) example number: 292
+    sentence: macbeth is crowned king , but he is consumed by guilt . experiencing gradual disintegration , he utters the LINES that signal the futility of his existence :
+    guess: division;  label: text
+
+82) example number: 303
+    sentence: it was steep by american standards , maybe $ 20 per person , but unimaginably extravagant for a family earning a normal wage in rubles . as the american wife of a resident u . s . correspondent said in the passport LINE at moscow 's sheremetyevo airport : " this is a great place for losing weight . "
+    guess: product;  label: formation
+
+83) example number: 305
+    sentence: greyhound corp . , looking skyward for business to replace the bus LINE it recently sold , agreed to acquire carson pirie scott & co . 's in-flight catering and airport-terminal concession operations for $ 326 million . announcement of the proposed purchase of the dobbs house airport restaurants and other food-service lines of chicago-based carson pirie came as speculation increased that minneapolis investor irwin jacobs was acquiring greyhound shares .
+    guess: phone;  label: product
+
+84) example number: 309
+    sentence: the spokesman said that noxell has told the company that the clarion products will be repackaged and further promoted . " we are going to stay with the LINE because noxell has historically been a good vendor for us , " he added .
+    guess: phone;  label: product
+
+85) example number: 314
+    sentence: some celebrities doing commercial announcements try hard to keep it a secret . actress kathleen turner read the LINES in a fab laundry detergent commercial earlier this year , and her contract specified that her identity remain confidential .
+    guess: text;  label: product
+
+86) example number: 320
+    sentence: the new law could , of course , provide work for the homeless , who are the ones most skilled at this task . but how long will the LINES be at the conservation center ?
+    guess: cord;  label: formation
+
+87) example number: 324
+    sentence: the moment had come when the kedges must do their work , must wind the ship around , so that the port tier of guns could be brought to bear upon the enemy . he shouted commands that sent an anchor plunging from the stern , while men cut the forward cable and others bent to the capstan , winching in the LINE to the starboard kedge .
+    guess: formation;  label: cord
+
+88) example number: 328
+    sentence: in the chemical group , increased sales of mining reagents , water-treatment chemicals and engineered materials contributed to the gains . meanwhile , the company 's consumer-products business , the shulton group , had higher sales of such household LINES as pine-sol liquid cleaner and combat pest-control products .
+    guess: text;  label: product
+
+89) example number: 329
+    sentence: we think you can be serving the public good at the moody 's or the goldman sachses too . " a blurry LINE doesn 't help the schools , which from the beginning have struggled to separate themselves from the more established law schools and business schools .
+    guess: text;  label: division
+
+90) example number: 331
+    sentence: at such a place , we are letting down the last boat , and , as she is set free , a wave turns her broadside down the stream , with the stem , to which the LINE is attached , from shore , and a little up . they haul on the line to bring the boat in , but the power of the current , striking obliquely against her , shoots her out into the middle of the river .
+    guess: division;  label: cord
+
+91) example number: 334
+    sentence: it 's a good fit . " in the u . s . , hoover 's vacuum cleaner LINES will fill a gap in maytag 's offerings .
+    guess: text;  label: product
+
+92) example number: 338
+    sentence: the buyers : cosmetics and fragrance companies . revlon group inc . purchases the diane von furstenberg fragrances from beecham group plc , while sanofi inc . buys distribution rights to the nina ricci LINE from american cyanamid co .
+    guess: text;  label: product
+
+93) example number: 349
+    sentence: sales in the buick division tumbled 68 % in early october compared with a year ago . buick sold only 778 of its 1988 buick regals , the debut model in the newly introduced gm-10 LINE that gm is hoping will increase the company 's share of the midsized car market .
+    guess: division;  label: product
+
+94) example number: 351
+    sentence: and carriers may have to mention that return portions of most non-refundable tickets can 't be used when travelers miss departing flights . " we 're essentially drawing a specific LINE and saying , 'step across it and we 'll sue you , ' " says one task-force member .
+    guess: cord;  label: division
+
+95) example number: 355
+    sentence: mrs . barbara agte , allison 's closest friend on the faculty , says , " no one felt responsibility for informing the parents of the dead students . the krauses tried to telephone kent , but all LINES were out .
+    guess: text;  label: phone
+
+96) example number: 363
+    sentence: in 1985 , in an " nbc nightly news " report , he disclosed that w . r . ( buster ) o 'brien , the unsuccessful republican candidate for virginia 's attorney general , hadn 't played football for three professional teams as mr . o 'brien had contended . for that portion of the story , nbc showed tape of mr . o 'brien at the state prison , including standing behind bars , with a bode voice-over saying " a politician who adds a phony LINE to his resume could wind up with an all-expense-paid visit to a place like this . "
+    guess: phone;  label: text
+
+97) example number: 364
+    sentence: ranging too far from an underwater habitat can be dangerous because the diver may not be able to find his way back . to prevent any such incident during the sealab experiment the aquanauts were attached to their dwelling by guide LINES whenever they swam for any distance .
+    guess: phone;  label: cord
+
+98) example number: 369
+    sentence: champion products inc . said it reached an agreement with national football league properties inc . to produce and market " replica " football jerseys bearing the identification of the 28 nfl teams . champion products , which makes and markets athletic , recreational and leisure wear , said the LINE of jerseys will be shipped in august .
+    guess: formation;  label: product
+
+99) example number: 372
+    sentence: the most powerful model -- which olivetti bought from scottsdale , ariz . - based edge computer corp . -- crunches numbers about four times faster than olivetti 's existing " LINE 1 " minicomputers . the edge model is expected to cost more than twice the 50 million lire of olivetti 's top-priced mini in its current line .
+    guess: text;  label: product
+
+100) example number: 377
+    sentence: that 's hundreds of dollars less than an actual ibm xt and only slightly more than most comparable no-name clones . ibm has stopped producing pc xts as part of a bid to get the world to shift to the LINE it introduced in april .
+    guess: cord;  label: product
+
+101) example number: 378
+    sentence: " sex sells , " he says . the public firestorm has made him a little hesitant about launching expensive new x-rated LINES .
+    guess: product;  label: phone
+
+102) example number: 379
+    sentence: as bedtime approaches , the xus sit together on a worn sofa and entertain their visitor by singing their favorite music , a chinese opera called " marriage of a goddess . " mr . xu stumbles occasionally reading his LINES and has to ask his wife for help .
+    guess: cord;  label: text
+
+103) example number: 387
+    sentence: " we 're going to sit and digest this one , and we 'll look at it maybe a year from now , " he said . the company also remains interested in acquisitions of consumer-product operations that would fit with its purex and dial LINES -- " anything that 's not perishable and can sit on a grocery shelf , " he said .
+    guess: text;  label: product
+
+104) example number: 392
+    sentence: mr . arguetty said another reason for the company 's performance was jan bell 's improved product mix . jan bell recently began selling a LINE of watches .
+    guess: formation;  label: product
+
+105) example number: 393
+    sentence: his voice is hoarse and his spurs drag in the mud , but " george dickel " slogs through the drizzle and cold wind , bravely shouting his LINES in a staged shootout with a dastardly gunfighter , archrival " jack daniel . "
+    guess: cord;  label: text
+
+106) example number: 394
+    sentence: basketball junkies can slam dunk their dirty clothes through a hoop into an nba hamper . the nfl is considering a LINE of high-fashion evening wear .
+    guess: formation;  label: product
+
+107) example number: 395
+    sentence: in fact , she mocks herself for occasionally exploiting it . " like i 'll walk into a deli and go right up to the head of a LINE as though i don 't know there 's a line there and say , 'i 'd like . . . ' or i 'll buy a ticket for a movie and go up to the security guard and say my dog really can 't stand in that line , and he 'll say , 'well , come right in . ' "
+    guess: text;  label: formation
+
+108) example number: 396
+    sentence: mr . scala and his boss , mr . hohorst , who is 33 years old , both say they are too busy to read lengthy economic news stories and analyses . they rely mainly on the frantic financial wire services , and often they read only the headlines -- a single LINE of shorthand that appears on the very bottom of their computer screens , in whatever space isn 't taken up by a long list of currency price quotes .
+    guess: formation;  label: text
+
+109) example number: 406
+    sentence: its sales are strongest in scandinavian countries and france , although it has sales offices throughout europe . the micronic LINE primarily is used for gathering data in the field .
+    guess: text;  label: product
+
+110) example number: 409
+    sentence: after some debate , ansell decides to relaunch lifestyles instead of introducing a new brand . but it still plans to add new products to the LINE , and it is still considering changing the name to partners .
+    guess: cord;  label: product
+
+111) example number: 410
+    sentence: " we begin to get orders each year in the spring , " asserts a rauch official . professional traders move in to buy the shares in february , if they hear good reports of the new christmas LINE displayed at trade shows .
+    guess: phone;  label: product
+
+112) example number: 415
+    sentence: you wouldn 't write home about their profits . " ms . hall also said that revlon may be looking at other cosmetic LINES that are currently up for sale . some wall street sources are speculating that among those lines are pieces of charles of the ritz group ltd . , recently purchased by yves saint laurent international s . a .
+    guess: text;  label: product
+
+113) example number: 423
+    sentence: revenue rose 4 % to $ 281 . 7 million from $ 270 . 8 million . irving gould , chairman and chief executive officer , said demand for all products " exceeded expectations " while the amiga LINE " is being established solidly and currently represents 40 % of total revenues . "
+    guess: text;  label: product
+
+114) example number: 424
+    sentence: " as junk-bond issuers can 't make their interest payments , there will be a reckoning , " he said . elsewhere downtown , big LINES formed for tickets to the illinois lottery 's saturday lotto drawing .
+    guess: phone;  label: formation
+
+115) example number: 429
+    sentence: far away upstream a new sound had begun a rumble-grumble like a big jet in the sky . we were lucky that brains was a scout life guard and knew how to heave a LINE .
+    guess: product;  label: cord
+
+116) example number: 434
+    sentence: polaroid corp . disclosed friday it is seeking $ 5 . 7 billion in damages from kodak as a result of its successful patent infringement suit . and black & decker corp . last week said it was pulling two LINES of flashlights off the shelves because of flaws in the kodak ultralife nine-volt lithium batteries that power them .
+    guess: formation;  label: product
+
+117) example number: 440
+    sentence: there is much scratching of heads : who knows how to shoot a whale ? how big a LINE we need to hold him ?
+    guess: formation;  label: cord
+
+118) example number: 443
+    sentence: burnt by early-1980s problems of excess capacity , a stagnant market and poor profit margins , chemical manufacturers shed plants and products drastically until about two years ago , when the restructuring began to show modest profits . now companies have entered a holding pattern -- cautiously finding ways to increase output with minor adjustments , expanding specialty LINES where they have little competition , and beginning to diversify into related products .
+    guess: division;  label: product
+
+119) example number: 446
+    sentence: " it was already happening , but it was happening slowly . " he says that not only will dealers focus on fewer LINES of equipment , but that dealers will focus more on market niches -- concentrating on businesses of a certain size or on specific industries , such as banking or insurance .
+    guess: cord;  label: product
+
+120) example number: 449
+    sentence: various colored twines , cords and ropes , available since the popularity of macrame , are also usable . you may , however , choose freely from butcher 's twine , mason LINE , nylon and plastic twine .
+    guess: division;  label: cord
+
+121) example number: 452
+    sentence: marilyn quayle , defending her husband 's mediocre academic record , told an interviewer last weekend that fdr " failed the bar exam seven times . " yesterday , sen . quayle picked up the same LINE , saying that roosevelt flunked " a number of times . "
+    guess: phone;  label: text
+
+122) example number: 457
+    sentence: the first step , after catching one , is to quickly turn the octopus inside out so that his sharp beaklike mouth has no chance to bite . most divers in island waters carry a long LINE on which to string their catch .
+    guess: formation;  label: cord
+
+123) example number: 458
+    sentence: as might happen in a real shoot , the countdown was interrupted several times because of problems , and it was soon determined that a key radar station on wake island in the pacific ocean was not operating properly . a LINE check was made and the malfunction traced to a switching center in hawaii .
+    guess: cord;  label: phone
+
+124) example number: 459
+    sentence: greyhound , a diversified concern whose dial corp . unit markets brands such as dial and purex and makes both consumer and institutional soap products , said the acquisition now would cover borax products with annual sales totaling about $ 43 million . the additional products in the agreement consist of a LINE of hand soaps and soap dispensers sold under the boraxo and luron names for the medical market , and a hand cleaner line for the automotive market , greyhound said .
+    guess: formation;  label: product
+
+125) example number: 461
+    sentence: over the decades , the supreme court has determined that so-called commercial speech -- which it defines as speech leading to a commercial transaction -- has less protection than does the rest of speech . so if you say " buy finnegan 's ice cream , " that has less protection than if you say " ice cream is good for you . " ( if you say " finnegan 's ice cream is good for you , " it 's debatable whether you 're leading up to a commercial transaction , which is one problem with drawing LINES when lines shouldn 't be drawn . )
+    guess: text;  label: division
+
+126) example number: 462
+    sentence: these proteins bind tightly to specific molecules , offering the prospect of such applications as the diagnosis and treatment of cancer and the separation and purification of materials . in addition , mr . frashier will push for development of a LINE of protein-based adhesive and coating products .
+    guess: formation;  label: product
+
+127) example number: 464
+    sentence: mr . naples said he expects " pockets of strengths and weaknesses " to continue in the business during the remaining six months . he said the growth rate in budget furniture has slowed since last year , while this year 's growth rate in the x-acto LINE is stronger .
+    guess: text;  label: product
+
+128) example number: 465
+    sentence: it is the parent company of audi of america inc . , which imports audi cars to the u . s . last week , a westchester county , n . y . , jury said audi was solely responsible for a 1985 accident in which an audi 5000 car hit a car in a bank teller LINE , which hit ms . ruston 's car .
+    guess: division;  label: formation
+
+129) example number: 467
+    sentence: these are the kinds of answers that could come from children in any school in any stable , decent community , and for a moment it is possible to forget that the moral and physical blight of the ghetto is just outside . but suddenly it intrudes in a single LINE , tortuously written and full of misspellings , produced by a 15-year-old girl .
+    guess: formation;  label: text
+
+130) example number: 468
+    sentence: foreign trade played a very small role in the u . s . economy . stories about u . s . exports in this newspaper would carry an apologetic LINE explaining that the subject really was worth discussing even though exports accounted for only about 4 % of the gross national product .
+    guess: phone;  label: text
+
+131) example number: 478
+    sentence: now sony , whose innovative , premium-priced products are among the most admired in consumer electronics , is bitterly complaining about a little u . s . firm with a cheap look-alike produced in china . " the gist of this is that justin knocked off the sony LINE and sony wants to stop it , " says lewis h . eslinger , sony 's attorney , who previously guarded rubik 's cube . ( sony itself declines to comment . ) if sony wins , mr . eslinger says , its little rival will have to try to sell the products overseas .
+    guess: phone;  label: product
+
+132) example number: 479
+    sentence: it also claimed to have scored a market share victory in the intensifying orange juice wars . tropicana , a unit of seagram co . , brought suit against atlanta-based coca-cola over a LINE used in advertising for coca-cola 's new minute maid premium choice orange juice that described the pasteurized product as " orange juice straight from the orange . "
+    guess: phone;  label: text
+
+133) example number: 481
+    sentence: chevrolet will market renamed versions of its nova , sprint and spectrum under the new badge , hoping to sharpen the identity of what is now a muddled array of subcompacts . the division also plans to include a new imported jeep-like sport-utility vehicle in the LINE , according to dealers and company sources .
+    guess: formation;  label: product
+
+134) example number: 485
+    sentence: to better tap this embryonic but traditionally hard-to-reach market , the nation 's no . 3 aluminum maker said it was reorganizing its european operations under a new unit . reynolds also said it was looking to beef up other consumer-products LINES there , including aluminum foil and packaging .
+    guess: text;  label: product
+
+135) example number: 491
+    sentence: four-wheel drive mercedes-benz adds four-wheel-drive cars to its u . s . LINE for the first time with the 300e 4matic sedan and 300te 4matic station wagon .
+    guess: formation;  label: product
+
+136) example number: 496
+    sentence: " what we 've really done . . . is enhanced our mid-range , " said larry ford , an ibm vice president . mr . ford said that since last october , " we 've completely refreshed the entire mainframe LINE . "
+    guess: text;  label: product
+
+137) example number: 503
+    sentence: take , for example , the subject of this week 's discussion -- the hero 's adventure . in one elegant LINE , mr . campbell links the celtic knight , wandering in the forest , to telemachus , setting off to find his father , to moses , climbing the mountain .
+    guess: product;  label: text
+
+138) example number: 508
+    sentence: she will say , however , that with two million people visiting the park annually , the number of LINE - cutting arrests is negligible . " besides , " she says , " you shouldn 't leave the line to get a hot dog . "
+    guess: cord;  label: formation
+
+139) example number: 510
+    sentence: i say no , but this convinces her i am . the camera is rolling into place , and my three LINES vanish from memory .
+    guess: cord;  label: text
+
+140) example number: 512
+    sentence: competition did , as advertised , save money , but it also made inside information far more valuable -- and threatening to the entire procurement system itself . operation ill wind , the code name for the two-year investigation blowing like a typhoon through the pentagon , is showing that some competitors are going over the LINE in vying for contracts , which now total more than $ 160 billion a year .
+    guess: phone;  label: division
+
+141) example number: 513
+    sentence: after all , despite a few rumblings here and there , the millions who heard ann richards continue to credit her as the wit who said that about ginger and fred . ms . richards seems to know it , too , for on a sunday talk show a few days after the convention , she did allow as how she had taken a LINE -- the silver-foot-in-the-mouth one -- from lily tomlin 's co-author in " signs of intelligent life in the universe . " ( she made no mention of ginger and fred ) .
+    guess: cord;  label: text
+
+142) example number: 516
+    sentence: wow said it will continue to develop new toys , and will unveil its 1988 products at the new york toy fair in february . the spokeswoman wouldn 't discuss the planned products , but said wow plans to broaden its LINE by offering more lower-priced toys .
+    guess: division;  label: product
+
+143) example number: 518
+    sentence: solutions from france weren 't much help . canadians use the north american " qwerty " keyboard , named for the sequence of keys on the top LINE of letters .
+    guess: product;  label: formation
+
+144) example number: 519
+    sentence: mr . howard reports that alliance entertainment has paid a $ 10 , 000 option toward a $ 200 , 000 purchase if it likes the script treatment . the caf LINE is the eight-year-old reprint house for such sturdy modern masters as donald barthelme , william kennedy and laurie colwin .
+    guess: text;  label: product
+
+145) example number: 522
+    sentence: discontent is strongest among the young . " many young people here are critical of the government , " says a jean-clad teen-ager waiting in a block-long LINE outside cafe nord , an east berlin disco .
+    guess: product;  label: formation
+
+146) example number: 531
+    sentence: fcb leber katz , a division of chicago-based foote , cone & belding communications inc . , is also already a big rjr agency with industry estimates of about $ 110 million in rjr billings . in recent years , it had handled the comeback , through line EXTENSIONS , of shredded wheat .
+    guess: text;  label: product
+
+147) example number: 533
+    sentence: " guys running plants shouldn 't be handicapped against guys selling bonds , " he said . in addition , mr . peltz said he and mr . may have been doing more of the type of acquisition and corporate finance work that investment bankers do than the work of LINE industrial managers .
+    guess: cord;  label: product
+
+148) example number: 537
+    sentence: moreover , the high-performance operating system , called os 2 , that can tap the full power of the new machines won 't be available until at least 1988 . vernon yates , a vice president of ncr and general manager of the personal computer division , acknowledged that the company is making the early announcement of the line IN response to ibm 's new machines .
+    guess: phone;  label: product
+
+149) example number: 540
+    sentence: it 's actually a waste of time to debate the merits of each case , because under our current tort system , it really doesn 't matter who was wrong or responsible for the injury . in this society , if someone gets hurt , somebody , anybody must pay -- and a LINE of hungry trial lawyers will be waiting outside the hospital room to get a share of the action .
+    guess: product;  label: formation
+
+150) example number: 541
+    sentence: it was , after all , only his second full day as chairman of the securities and exchange commission . but the lack of LINES became painfully apparent . as the stock market lurched into a 190-point free fall on oct . 13 , mr . breeden found himself scurrying around the sixth floor of the sec -- from his desk , where the new york stock exchange was on an open line , to his assistant 's office , where the commodity futures trading commission was connected , to a third room , where a computer monitored market moves .
+    guess: cord;  label: phone
+
+151) example number: 548
+    sentence: citing numerous precedents , pennzoil says texaco must prove that pennzoil intended to defraud public shareholders through its early-purchase arrangement with the museum -- proof , it says , that doesn 't exist . citing equally numerous precedents , texaco and the sec say 10b-13 is a " bright LINE " rule with no room for interpretation -- that by arranging to purchase shares privately with its tender offer outstanding pennzoil walked over the line of legality .
+    guess: text;  label: division
+
+152) example number: 559
+    sentence: h . j . heinz co . said its star-kist foods inc . unit entered a definitive agreement to buy the pet-foods operations of california home brands holdings inc . terms weren 't disclosed . california home brands ' LINE consists primarily of canned dog and cat foods , including the skippy premium , vets , sturdy , petuna and glamour puss labels .
+    guess: text;  label: product
+
+153) example number: 561
+    sentence: an attorney who joined kraft 's law department in 1954 after graduating from harvard law school , his background isn 't in marketing , which is what 's needed to pump new life into tired LINES . when he spoke to analysts last week in florida , mr . richman was enthusiastic about line extensions , which are new versions of existing brands .
+    guess: phone;  label: product
+
+154) example number: 565
+    sentence: thus , when mr . dukakis went to annapolis wednesday for a statehouse-steps rally to taunt mr . bush for backing out of the presidential debate that was to have been held there , access was controlled by issuing tickets through democratic leaders for the best viewing area , which was roped off . the bush campaign , meanwhile , has taken to distributing cases of air horns to supporters that can be sounded whenever the vice president delivers an applause LINE so there will be a din of enthusiastic cheering on television -- and also can be used to drown out the chants of any dukakis supporters who might materialize .
+    guess: phone;  label: text
+
+155) example number: 567
+    sentence: " they are intrigued , " adds ms . emmons , " because never has the technical mattered so much . in other productions you kill yourself to make a chair and the director will just throw it out if they cut the LINE about the chair .
+    guess: cord;  label: text
+
+156) example number: 577
+    sentence: i became rather fond of m , a casually self-deprecating fellow played by patrick o 'connell . he keeps humor and horror nicely in balance for 90 minutes and lets the terror palpitate through his LINES .
+    guess: cord;  label: text
+
+157) example number: 578
+    sentence: the market for phone systems is fairly flat and intensely competitive ; at & t , international business machines corp . 's rolm unit and northern telecom ltd . vie each year for the no . 1 spot and together control 60 % to 70 % of the market , according to analysts . at & t said its new spirit system , which has been in controlled introduction in southern california , is designed for non-office businesses and , in the larger model , can accommodate as many as 24 LINES and 48 phones . merlin ii , the larger of the new merlin systems , can accommodate as many as 32 lines and 72 phones .
+    guess: cord;  label: phone
+
+158) example number: 580
+    sentence: an ambulance trails the candidate 's limousine . police cars form the vanguard and rear guard ; other police cars block off all the crossroads to make sure an errant john deere doesn 't break the LINE .
+    guess: cord;  label: formation
+
+159) example number: 581
+    sentence: the confusion is symbolized by the differences between two former kennedy speech writers now working for mr . dukakis . theodore sorensen , the architect of " ask not . . . " and other soaring john kennedy LINES , recalls an earlier liberalism of civic obligation and popular community goals .
+    guess: product;  label: text
+
+160) example number: 584
+    sentence: mr . mitterrand , mr . chirac , and a former premier , raymond barre , want to crack down on illegal immigrants , but not to discriminate against legal immigrants . mr . le pen wants to reserve jobs and government subsidies to the french , put the immigrants at the end of the LINE -- and send the illegals home .
+    guess: phone;  label: formation
+
+161) example number: 586
+    sentence: this latest " jaws , " the fourth in the series , is doing good business , though the audience i saw it with didn 't seem very scared , or very involved in any way at all . no one gasped when the shark ( was it always so obviously fake ? ) chomped human snacks , nor did anyone boo or hiss at the silly LINES and generally awful performances .
+    guess: cord;  label: text
+
+162) example number: 589
+    sentence: it is the federal reserve bank of new york , agent for the u . s . government . and for a moment , mr . scala doesn 't see the LINE light up . " when that line comes in , you 've got to pick it up quick , " mr . remigio chides his partner .
+    guess: text;  label: phone
+
+163) example number: 590
+    sentence: the LINE , aimed at young men and women , produces higher profit margins than other name-brand clothes , he said . mr . sullivan also said the line illustrates a change over the past year in the company 's merchandising strategy .
+    guess: phone;  label: product
+
+164) example number: 593
+    sentence: the professor imagined that he was far above them , so that he could see men and their unknown ends as men can see longhorns and the ends they cannot see . he saw the remuda and the cowboys ; then he saw a wagon jolting along and himself holding drooping LINES , sitting looking at the back ends of four mules .
+    guess: text;  label: cord
+
+165) example number: 598
+    sentence: in the nine months , earnings fell 49 % to $ 41 . 4 million , or 71 cents a share , on a 1 . 9 % drop in revenue , to $ 966 . 7 million , from a year earlier . this year 's results reflect the general softness in the toy industry , as well as disappointing sales for hasbro from several new products -- including air raiders , battle beasts and visionaries in the boys ' action LINE ; and jem in the girls ' doll category , mr . hassenfeld said .
+    guess: cord;  label: product
+
+166) example number: 602
+    sentence: mr . max , who once designed costumes for the soviet union 's kirov ballet , attended design school in new york and worked for tahari ltd . , a new york designer , before moving to los angeles . his LINES , which include short skirts and dress and jacket ensembles in soft knits , are now in many major department stores .
+    guess: text;  label: product
+
+167) example number: 603
+    sentence: so , after rebels apparently had seized the building , several u . s . officials attempted in vain to contact them by phone to determine what had become of gen . noriega . some of their outgoing calls were interrupted by their own switchboard operators , who chastised the officials for using LINES they had been ordered to keep free .
+    guess: text;  label: phone
+
+168) example number: 605
+    sentence: he heaved himself to his feet and sat down at the desk , making the long distance call to the wisconsin hospital 's emergency room . the resident who was taking care of mrs . cochran was quickly on the LINE .
+    guess: cord;  label: phone
+
+169) example number: 613
+    sentence: kids ages four to nine are " fashion-conscious " as well as gender-conscious , she says . among the exceptions to the gender LINE are construction products like lego system inc . 's lego or habermaas ' t . c . timber , which has a package showing a girl in a frilly dress surveying a toy construction site .
+    guess: product;  label: division
+
+170) example number: 621
+    sentence: the broad claims made by the patent holders in the two current disputes have stirred criticism . " you just don 't patent a whole product , " says alan shugart , chairman of seagate technology , which has just unveiled a LINE of 3 1 2-inch drives and which freely trades its patents on specific parts of older 5 1 4-inch drives .
+    guess: formation;  label: product
+
+171) example number: 637
+    sentence: american home , which is much larger than robins , would probably have absorbed robins completely , according to analysts . rorer said in its most recent bid last week that it would sell robins 's prized consumer drug LINES after a merger .
+    guess: text;  label: product
+
+172) example number: 638
+    sentence: " lorillard won 't publicly admit it made a mistake , even though the people there are concerned about the controversy and will be altering the ads , " says a source close to the company . but sara ridgway , a lorillard spokeswoman , asserts that the campaign won 't be killed and that if there are any changes , " the essence of the ads , including the LINE , 'the experience you seek , ' will remain the same . "
+    guess: phone;  label: text
+
+173) example number: 643
+    sentence: the objects of mr . hendra 's considerable rants ( i stopped counting at 163 ) range from those unlucky enough to have worked with him at national lampoon , or to have done favors for him , to those humorists guilty of what he sees as insufficient artistic purity , the entire republican party , " stinking-rich fundamentalist scum , " the sinister institution of television , the military , the rich , assorted journalists and political commentators , the middle class and the roman catholic church . with such a startling array of enemies , one might expect author hendra , who during the '60s did stand-up comedy routines on the ed sullivan show , among other places , to get off a few good LINES .
+    guess: cord;  label: text
+
+174) example number: 654
+    sentence: poor quality and an unusually high rate of vacuum cleaner returns may have contributed significantly to regina co . 's recently disclosed financial problems . interviews with retailers and vacuum cleaner industry executives indicate that several of regina 's housekeeper cleaner LINES have had high rates of return , bringing into question the company 's sales figures .
+    guess: formation;  label: product
+
+175) example number: 656
+    sentence: u . s . exports dropped like a stone in the years of the overvalued dollar and imports soared ; not one major american industry could maintain its exports in the face of a currency fluctuation of almost 50 % . yet only in steel , automobiles , consumer electronics , machine tools and a few semiconductor LINES did the world share of american products go down at all .
+    guess: formation;  label: product
+
+176) example number: 658
+    sentence: augusta , ga . : thomp . two motorcycles , nine cars and vans , and two buses are rolling resolutely to the next stop , the regency shopping mall next door to a muffler shop -- and , please , we already thought of the " midasize him ! " LINE .
+    guess: phone;  label: text
+
+177) example number: 664
+    sentence: telex computer products , tulsa , okla . for information : circle 375 on reader card the model 185 terminal allows a user to process unjustified paper tape from a remote site using either dial-up or dedicated LINES .
+    guess: product;  label: phone
+
+178) example number: 665
+    sentence: modern echo sounders are so sensitive they can detect shipwrecks and schools of fish . the equipment replaces the older technique of throwing a weighted LINE into the sea .
+    guess: division;  label: cord
+
+179) example number: 672
+    sentence: renault and daf trucks nv announced a preliminary agreement to jointly manufacture a LINE of trucks in britain and france .
+    guess: formation;  label: product
+
+180) example number: 677
+    sentence: instead of the traditional sewn-on patch , it is screen-printed and embroidered on some shirts . in the boys ' LINE , a new sweater is emblazoned with a fancy crest showing the alligator on a shield with french and american flags .
+    guess: text;  label: product
+
+181) example number: 679
+    sentence: in some of their current operations , they 've focused on auto repair and maintenance products , realizing consumers are keeping their cars longer . they are likely to sell interco 's apparel manufacturing and general retailing operations , including such LINES as london fog rain gear and converse and florsheim shoes .
+    guess: text;  label: product
+
+182) example number: 681
+    sentence: what those fans have been watching is the latest video made by a professional sports team : the browns ' " masters of the gridiron . " although the team 's loss to the denver broncos sunday has already hurt sales of the 17-minute film , the video has earned a reputation as the strangest production in a LINE of videos that began last year with the chicago bears ' " super bowl shuffle . "
+    guess: formation;  label: product
+
+183) example number: 683
+    sentence: " honoraria can only be accepted under the fiction that it 's payment for services rendered , " says stanley brand , former counsel to the house of representatives . when used as a lobbying tool , he says , " a prosecutor may decide that it 's gone over the LINE from a payment to a gift or gratuity or bribe . "
+    guess: phone;  label: division
+
+184) example number: 684
+    sentence: some say 70 % . as the reader ponders these LINES , at least three out of 10 boat people just setting out to sea will most probably not make landfall .
+    guess: cord;  label: text
+
+185) example number: 688
+    sentence: pass it forward , get it under the bows and astern . " men struggled to position the heavy LINE ; once more the capstan clanked its turns .
+    guess: text;  label: cord
+
+186) example number: 689
+    sentence: she turned to confront him , a spark of anger in her eyes . " that goes beyond the LINE of pleasing , sir !
+    guess: product;  label: division
+
+187) example number: 693
+    sentence: world-wide manufacturing compounds the problem . clothing from the same LINE often is produced in several countries , making it difficult for apparel companies to offer goods of consistent quality .
+    guess: phone;  label: product
+
+188) example number: 700
+    sentence: wolverine world wide had posted a 1986 loss of $ 12 . 6 million , largely attributable to a $ 9 million charge caused by the restructuring . the consolidation , which mr . gleason credits for the company 's turnaround , also led to the closing of five midwest and new england shoe factories , the sale of the kaepa athletic shoe LINE to a management group , the sale of retail linen stores and a management restructuring .
+    guess: formation;  label: product
+
+189) example number: 703
+    sentence: in scenes like the one in which shirer cooperates with a u . s . naval intelligence officer 's request to do a little spying on the side , the film illustrates very clearly that the survival of press freedom depends on that of legitimately constituted government . when confronted with a world-class liar like goebbels , or ( more recently ) with the kind of people who thought nothing of whitewashing the blood from tiananmen square , it 's heartening to know that a LINE still exists between journalistic pride and journalistic hubris .
+    guess: text;  label: division
+
+190) example number: 704
+    sentence: and don 't phone me . if he finds the LINE busy , he might decide just promise me you won 't talk to that agent , or the police , or anyone . "
+    guess: cord;  label: phone
+
+191) example number: 705
+    sentence: the dukakis people are going to need all the help they can get . instructive is an ailes LINE -- a bit of hyperbole , no doubt -- that mr . goodman says he will never forget .
+    guess: phone;  label: text
+
+192) example number: 706
+    sentence: the big shrimp boat on the end of the float nearest the mouth of the boat basin seemed to bear the brunt of the flood . it rode taut on its LINES , pressed against the float .
+    guess: product;  label: cord
+
+193) example number: 711
+    sentence: presidential contender goldwater would have been a lot better off in 1964 if he had only seen fit to credit the real author of what turned out to be the most self-destructive LINES ever uttered in a campaign speech : " i would remind you . . . extremism in the defense of liberty is no vice . " the real author , whose line sen . goldwater changed slightly , was cicero . had the senator not neglected to mention this fact , the line , needless to say , would have been treated with the respect usually accorded the wisdom of the ancients rather than as the extremist frothings of the candidate of the lunatic right .
+    guess: product;  label: text
+
+194) example number: 713
+    sentence: the company , which boosted the number of stores to 388 from 334 in the fiscal year just ended , said it expects to open another 40 to 50 in the current year . by fall , it also hopes to expand its i . o . u . LINE to represent between 25 % and 30 % of the merchandise sold in the two divisions that carry it .
+    guess: phone;  label: product
+
+195) example number: 722
+    sentence: international minerals & chemical corp . said its mallinckrodt inc . unit is divesting a handful of peripheral businesses as part of an effort to focus on LINES with higher profit margins and stronger market positions . proceeds from the sale of the various lines are expected to exceed $ 100 million , the company said .
+    guess: formation;  label: product
+
+196) example number: 723
+    sentence: listen to the left itself cheer . in the new republic last month , barbara ehrenreich , co-chair of the democratic socialists of america , quoted approvingly a LINE that what the democrats need is " a little class warfare . "
+    guess: division;  label: text
+
+197) example number: 725
+    sentence: -- set up a fur-production factory as early as next year . -- diversify into other LINES of soviet business , including trading in textiles , syringes and condoms .
+    guess: phone;  label: product
+
+198) example number: 734
+    sentence: basics are no secret to merchandisers . for many years major retailers identified basic items in all staple LINES and made certain they were " always available . "
+    guess: formation;  label: product
+
+199) example number: 745
+    sentence: lintas , which has had noxell as a client for 41 years , will continue to create ads for the hunt valley , md . , company 's cover girl makeup and noxema skin cream LINES . those lines bill an estimated $ 60 million in advertising annually .
+    guess: phone;  label: product
+
+200) example number: 756
+    sentence: " it started to aggravate our agents and inconvenience our passengers , " says marc wallace , a united vice president . united 's employees began suggesting to the continental passengers that they defect to united 's shorter LINE .
+    guess: product;  label: formation
+
+201) example number: 760
+    sentence: the agency is trying to determine whether a unit of giant group ltd . , a beverly hills , calif . - based cement concern controlled by mr . sugarman , and other entities with tre holdings failed to disclose that they were acting in concert , sources said . because of a production error some LINES were dropped in an earlier edition .
+    guess: cord;  label: text
+
+202) example number: 765
+    sentence: ain 't nobody missed no dinner yet on account of me that i know of . " he drove on north grumbling , but flailing the LINES against the rumps of the team .
+    guess: division;  label: cord
+
+203) example number: 767
+    sentence: as the long-distance market becomes more competitive , however , prices of services will conform more to the costs of providing those services . if holding a LINE open while waiting for a call to be answered imposes costs , eventually a price will be charged .
+    guess: formation;  label: phone
+
+204) example number: 768
+    sentence: analysts say this isn 't impossible , given their own projections that black & decker earnings could soar to $ 5 to $ 6 a share over the same period . black & decker 's purchase of general electric 's small appliance LINE in 1985 " was more risky than emhart , " mr . archibald declares .
+    guess: text;  label: product
+
+205) example number: 771
+    sentence: but robert fersh bristles at the notion that soup kitchens are thriving because of spongers . " if it was all freeloaders , then why didn 't we see these LINES at soup kitchens seven years ago ? " asks mr . fersh , food research 's executive director .
+    guess: cord;  label: formation
+
+206) example number: 773
+    sentence: will he try to take her home ? " you are putting me in a very delicate position , " he says , in what seems to be a stock LINE for august bachelors .
+    guess: formation;  label: text
+
+207) example number: 779
+    sentence: the only sound was a wailing baby somewhere in the boat . LINES were dropped , and now the boat was fast .
+    guess: text;  label: cord
+
+208) example number: 780
+    sentence: " this is nothing more than puffery , though i may be surprised tomorrow morning , " he added . richard hanley , an independent analyst in new york , said that price discounts on the old hoover LINE and other costs of the model changeover will depress first-quarter results .
+    guess: text;  label: product
+
+209) example number: 782
+    sentence: " that was hilarious , that was so cruel , " says chris kreski , the show 's 26-year-old head writer . backstage , mr . kreski struggles to come up with a " mom LINE , " the nightly joke in which mr . ober is interrupted by the voice of his mother asking him to do some gross chore , such as trimming her mustache .
+    guess: division;  label: text
+
+210) example number: 790
+    sentence: neatly printed on the wall was : " i ain 't never gonna love nobody but cornell crawford . " the LINE stuck with her -- " so funny and dear , and who 's cornell anyway ? "
+    guess: cord;  label: text
+
+211) example number: 792
+    sentence: but saint laurent also is selling the charles of the ritz and alexandra de markoff brands , which are more prestigious . aside from saint laurent products , the only significant LINE it is retaining is one called gianni versace .
+    guess: text;  label: product
+
+212) example number: 796
+    sentence: as it happened , much of the oil industry fared very well under controls , mainly because of the system of " entitlements " that acted as a subsidy to companies that depended heavily on imported oil . we wonder to this day whether the shell and exxon executives who peddled the " impending shortage " LINE back then had foreseen how well their private interests would be served .
+    guess: cord;  label: text
+
+213) example number: 801
+    sentence: " the past few months have been a difficult period for the company , " mr . kingsborough said . " nonetheless , we are encouraged by retailer and consumer reaction to both our continuing LINES and to the new products we introduced for this christmas season .
+    guess: cord;  label: product
+
+214) example number: 818
+    sentence: some contributors , however , are eager to associate themselves with the patriotic and educational aspects of their participation . says mr . armour of american express , echoing the LINES of other sponsors : " we love to be patriotic .
+    guess: formation;  label: text
+
+215) example number: 821
+    sentence: looart owns current inc . , a major marketer of greeting cards and stationery based in colorado springs , colo . , that has annual sales of more than $ 125 million , primerica said . the sale is part of primerica 's plan , announced in august , to sell all its mail-order LINES in order to reduce debt on its $ 750 million purchase of smith barney inc .
+    guess: text;  label: product
+
+216) example number: 824
+    sentence: the firm 's problems really began in the mid-1980s , when it decided against seeking a share of the new generation of fighters envisioned by the navy in order to concentrate its technical and financial resources on an overriding goal : winning the multibillion-dollar contract to build a replacement for the bulbous-nosed a-6 intruder , the navy 's only long-range , all-weather bomber . but the company isn 't among the firms picked for that contract , leaving it without a new LINE of warplanes when production of its battle-tested but aging models is phased out .
+    guess: formation;  label: product
+
+217) example number: 826
+    sentence: it was just weird , in the sense of popular culture finding a bizarre way to express its racial ambivalence . one of the last minstrels was al jolson , described by his biographer , pearl sieben , as a man who " needed applause the way a diabetic needs insulin " -- a LINE that might also describe michael jackson .
+    guess: phone;  label: text
+
+218) example number: 827
+    sentence: if inside people are not competitive , how can your organization be competitive in the marketplace ? consultants who work across industry LINES will confirm that the fundamentals in every industry are almost identical .
+    guess: product;  label: division
+
