@@ -1,0 +1,13 @@
+YOUR NAME HERE: Olga Redko
+ASSN 02: "Who Said It?"
+PART A
+
+My classifier's original accuracy scores based on my random data splits: 
+ Accuracy score: 0.945
+ Accuracy score: 0.951
+ Accuracy score: 0.948
+ Accuracy score: 0.953
+ Accuracy score: 0.958
+
+My classifier's accuracy score after fixing the random seed: 
+ Accuracy score: 0.951

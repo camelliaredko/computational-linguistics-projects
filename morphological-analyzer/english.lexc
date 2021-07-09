@@ -1,0 +1,108 @@
+! Olga Redko, Feb 2, @oredko
+!!!english.lexc!!!
+
+Multichar_Symbols +N +V +ADJ +ADV +PastPart +Past +PresPart +3P +Sg +Pl +Comp +Supl
+
+LEXICON Root
+
+Noun      ;
+Verb      ;
+Adjective ;
+
+LEXICON Noun
+
+cat     Ninf;
+city    Ninf;
+fox     Ninf;
+panic   Ninf;
+try     Ninf;
+watch   Ninf;
+panda   Ninf;
+bus     Ninf;
+library Ninf;
+mouse+N+Sg:mouse          #;
+mouse+N+Pl:mice           #;
+child+N+Sg:child          #;
+child+N+Pl:children       #;
+cactus  Ninf;
+cactus+N+Pl:cacti         #;
+octopus  Ninf;
+octopus+N+Pl:octopi       #;
+
+LEXICON Verb
+
+beg    Vinf;
+fox    Vinf;
+panic  Vinf;
+try    Vinf;
+watch  Vinf;
+walk   Vinf;
+debate Vinf;
+study  Vinf;
+stop   Vinf;
+nod    Vinf;
+fold   Vinf;
+make+V:make                #;
+make+V+PresPart:making     #;
+make+V+Past:made           #;
+make+V+PastPart:made       #;
+make^able:makable     ADJinf;
+write+V:write              #;
+write+V+PresPart:writing   #;
+write+V+Past:wrote         #;
+write+V+PastPart:written   #;
+write^able:writable   ADJinf;
+drink+V:drink              #;
+drink+V+PresPart:drinking  #;
+drink+V+Past:drank         #;
+drink+V+PastPart:drunk     #;
+drink^able:drinkable     ADJinf;
+sneak   Vinf;
+sneak+V+Past:snuck         #;
+sneak+V+PastPart:snuck     #;
+
+LEXICON Adjective
+
+slow ADJinfcompsupl;
+cool ADJinfcompsupl;
+fine ADJinfcompsupl;
+beautiful    ADJinf;
+excellent    ADJinf;
+
+LEXICON Ninf
+
++N+Sg:0   #;
++N+Pl:^s  #;
+
+LEXICON Vinf
+
++V:0             #;
++V+3P+Sg:^s      #;
++V+Past:^ed      #;
++V+PastPart:^ed  #;
++V+PresPart:^ing #;
+^able:^able ADJinf;
+
+LEXICON ADJinf
+
++ADJ:0           #;
+^ly:^ly     ADVinf;
+
+LEXICON ADJinfcompsupl
+
++ADJ:0           #;
++ADJ+Supl:^est   #;
++ADJ+Comp:^er    #;
+^ly:^ly     ADVinf;
+
+LEXICON ADVinf
+
++ADV:0           #;
+
+
+
+
+
+
+
+
