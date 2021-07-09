@@ -1,0 +1,41 @@
+These are the results I obtained by processing data that included Pos_verbs (positive verbs) features: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1928 1031]
+ [1186 1734]]
+              precision    recall  f1-score   support
+
+           0       0.62      0.65      0.63      2959
+           4       0.63      0.59      0.61      2920
+
+    accuracy                           0.62      5879
+   macro avg       0.62      0.62      0.62      5879
+weighted avg       0.62      0.62      0.62      5879
+
+0.6228950501786018
+=======================================================
+Number of mislabeled points out of a total 5879 points : 2217
+None
+
+The accuracy score decreased after this augmentation. Without the augmentation, I obtained the following results: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1942 1017]
+ [1167 1753]]
+              precision    recall  f1-score   support
+
+           0       0.62      0.66      0.64      2959
+           4       0.63      0.60      0.62      2920
+
+    accuracy                           0.63      5879
+   macro avg       0.63      0.63      0.63      5879
+weighted avg       0.63      0.63      0.63      5879
+
+0.6285082497023303
+=======================================================
+Number of mislabeled points out of a total 5879 points : 2184
+None

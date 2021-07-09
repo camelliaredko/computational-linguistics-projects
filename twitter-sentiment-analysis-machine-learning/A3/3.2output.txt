@@ -1,0 +1,256 @@
+Olga Redko
+
+Accuracy scores were initially relatively low, but as more samples were trained, accuracy scores increased until a plateau was hit and scores very slightly increased and decreased (but never got as low as in the beginning).
+I think this might have happened because, at least based on my personal experiences, most of the features being processed don't seem particularly helpful for measuring affect, and many of these features are common. 
+For example, the word "her" is part of the feature dictionary, and it's a relatively common word that, based on my experiences, tends to be neutral (doesn't have a strong positive or negative affect). 
+Many words with strong positive or negative affects aren't considered in the feature list or dictionary and are often rare. 
+For example, I added Pos_verbs (positive verbs) into the feature list, and based on my experiences, the listed positive verbs tend to be very strongly associated with positive affect. 
+However, most of these words, which include "laud," "extol," and "trust" aren't extremely common. 
+If only very few samples are trained, words that belong to features that are strongly associated with certain affects (such as Pos_verbs for positive affect) may not show up in the sample at all or would hardly show up 
+especially because they tend to be relatively uncommon. So, the machine might not even really notice that such words are strongly associated with certain kinds of affects. 
+However, if we increase the number of samples that are trained, even if the machine may take note of certain features being strongly associated with certain affects (thus increasing accuracy to a certain extent), 
+since the words of such features are uncommon, adding more data might not make much of a difference since the proportion of data with those uncommon yet notable features would likely hardly change. 
+
+
+       First_person_pronouns  ...  Average_token_length
+3046                       0  ...                     4
+10412                      0  ...                     4
+6719                       0  ...                     5
+4345                       0  ...                     6
+5602                       0  ...                     4
+
+[5 rows x 18 columns]
+(11758, 18)
+*******************************************************
+Results for the first 500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[104 154]
+ [ 62 180]]
+              precision    recall  f1-score   support
+
+           0       0.63      0.40      0.49       258
+           4       0.54      0.74      0.62       242
+
+    accuracy                           0.57       500
+   macro avg       0.58      0.57      0.56       500
+weighted avg       0.58      0.57      0.56       500
+
+0.568
+=======================================================
+Number of mislabeled points out of a total 500 points : 216
+None
+*******************************************************
+Results for the first 1000.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[285 213]
+ [190 312]]
+              precision    recall  f1-score   support
+
+           0       0.60      0.57      0.59       498
+           4       0.59      0.62      0.61       502
+
+    accuracy                           0.60      1000
+   macro avg       0.60      0.60      0.60      1000
+weighted avg       0.60      0.60      0.60      1000
+
+0.597
+=======================================================
+Number of mislabeled points out of a total 1000 points : 403
+None
+*******************************************************
+Results for the first 1500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[441 290]
+ [322 447]]
+              precision    recall  f1-score   support
+
+           0       0.58      0.60      0.59       731
+           4       0.61      0.58      0.59       769
+
+    accuracy                           0.59      1500
+   macro avg       0.59      0.59      0.59      1500
+weighted avg       0.59      0.59      0.59      1500
+
+0.592
+=======================================================
+Number of mislabeled points out of a total 1500 points : 612
+None
+*******************************************************
+Results for the first 2000.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[622 355]
+ [418 605]]
+              precision    recall  f1-score   support
+
+           0       0.60      0.64      0.62       977
+           4       0.63      0.59      0.61      1023
+
+    accuracy                           0.61      2000
+   macro avg       0.61      0.61      0.61      2000
+weighted avg       0.61      0.61      0.61      2000
+
+0.6135
+=======================================================
+Number of mislabeled points out of a total 2000 points : 773
+None
+*******************************************************
+Results for the first 2500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[774 471]
+ [474 781]]
+              precision    recall  f1-score   support
+
+           0       0.62      0.62      0.62      1245
+           4       0.62      0.62      0.62      1255
+
+    accuracy                           0.62      2500
+   macro avg       0.62      0.62      0.62      2500
+weighted avg       0.62      0.62      0.62      2500
+
+0.622
+=======================================================
+Number of mislabeled points out of a total 2500 points : 945
+None
+*******************************************************
+Results for the first 3000.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[945 541]
+ [615 899]]
+              precision    recall  f1-score   support
+
+           0       0.61      0.64      0.62      1486
+           4       0.62      0.59      0.61      1514
+
+    accuracy                           0.61      3000
+   macro avg       0.62      0.61      0.61      3000
+weighted avg       0.62      0.61      0.61      3000
+
+0.6146666666666667
+=======================================================
+Number of mislabeled points out of a total 3000 points : 1156
+None
+*******************************************************
+Results for the first 3500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1068  698]
+ [ 660 1074]]
+              precision    recall  f1-score   support
+
+           0       0.62      0.60      0.61      1766
+           4       0.61      0.62      0.61      1734
+
+    accuracy                           0.61      3500
+   macro avg       0.61      0.61      0.61      3500
+weighted avg       0.61      0.61      0.61      3500
+
+0.612
+=======================================================
+Number of mislabeled points out of a total 3500 points : 1358
+None
+*******************************************************
+Results for the first 4000.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1247  726]
+ [ 828 1199]]
+              precision    recall  f1-score   support
+
+           0       0.60      0.63      0.62      1973
+           4       0.62      0.59      0.61      2027
+
+    accuracy                           0.61      4000
+   macro avg       0.61      0.61      0.61      4000
+weighted avg       0.61      0.61      0.61      4000
+
+0.6115
+=======================================================
+Number of mislabeled points out of a total 4000 points : 1554
+None
+*******************************************************
+Results for the first 4500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1388  898]
+ [ 793 1421]]
+              precision    recall  f1-score   support
+
+           0       0.64      0.61      0.62      2286
+           4       0.61      0.64      0.63      2214
+
+    accuracy                           0.62      4500
+   macro avg       0.62      0.62      0.62      4500
+weighted avg       0.62      0.62      0.62      4500
+
+0.6242222222222222
+=======================================================
+Number of mislabeled points out of a total 4500 points : 1691
+None
+*******************************************************
+Results for the first 5000.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1617  914]
+ [ 968 1501]]
+              precision    recall  f1-score   support
+
+           0       0.63      0.64      0.63      2531
+           4       0.62      0.61      0.61      2469
+
+    accuracy                           0.62      5000
+   macro avg       0.62      0.62      0.62      5000
+weighted avg       0.62      0.62      0.62      5000
+
+0.6236
+=======================================================
+Number of mislabeled points out of a total 5000 points : 1882
+None
+*******************************************************
+Results for the first 5500.0 rows trained: 
+
+=======================================================
+Testing LogisticRegression
+=================== Results ===========================
+[[1809  985]
+ [1117 1589]]
+              precision    recall  f1-score   support
+
+           0       0.62      0.65      0.63      2794
+           4       0.62      0.59      0.60      2706
+
+    accuracy                           0.62      5500
+   macro avg       0.62      0.62      0.62      5500
+weighted avg       0.62      0.62      0.62      5500
+
+0.6178181818181818
+=======================================================
+Number of mislabeled points out of a total 5500 points : 2102
+None
+
+Process finished with exit code 0

@@ -1,0 +1,183 @@
+Features like Second_person_pronouns, Adverbs, First_person_pronouns were consistently in the top 5 highest scoring features. 
+I think this is mainly because although such features may often not have an obvious tendency toward a certain affect by themselves (a word like "I" from First_person_pronouns would probably not be included in a positive or negative features list compiled by people), such features are very common, and tendencies toward certain affects for them do start to emerge with large data samples. 
+Other features, like Pos_verbs for positive affect, may have more obvious or stronger tendencies toward certain affects, but since they appear far less frequently than features like Second_person_pronouns, Adverbs, First_person_pronouns, they are not as helpful for determining the affect of data. 
+
+
+/usr/bin/python3.6 /home/olgaredko/Desktop/assignment-3-twitter-sentiment-oredko-master/A3/sklearn_template.py
+       First_person_pronouns  ...  Average_token_length
+3046                       0  ...                     4
+10412                      0  ...                     4
+6719                       0  ...                     5
+4345                       0  ...                     6
+5602                       0  ...                     4
+
+[5 rows x 18 columns]
+(11758, 18)
+*******************************************************
+Results for the first 500.0 rows trained: 
+1. Second_person_pronouns 12.50
+2. Adverbs 8.69
+3. Pos_verbs 6.43
+4. First_person_pronouns 5.60
+5. Proper_nouns 4.85
+6. Average_token_length 4.22
+7. Past_tense_verbs 4.09
+8. Third_person_pronouns 2.67
+9. Parentheses 1.21
+10. Modern_slang_acronyms 1.08
+['First_person_pronouns' 'Second_person_pronouns' 'Third_person_pronouns'
+ 'Past_tense_verbs' 'Parentheses' 'Proper_nouns' 'Adverbs'
+ 'Modern_slang_acronyms' 'Pos_verbs' 'Average_token_length']
+*******************************************************
+Results for the first 1000.0 rows trained: 
+1. Adverbs 26.00
+2. Past_tense_verbs 25.26
+3. Second_person_pronouns 12.85
+4. Pos_verbs 11.56
+5. First_person_pronouns 11.20
+6. Average_token_length 8.51
+7. Proper_nouns 7.72
+8. Dashes 5.96
+9. Upper_case 4.12
+10. Third_person_pronouns 3.87
+['First_person_pronouns' 'Second_person_pronouns' 'Third_person_pronouns'
+ 'Past_tense_verbs' 'Dashes' 'Proper_nouns' 'Adverbs' 'Pos_verbs'
+ 'Upper_case' 'Average_token_length']
+*******************************************************
+Results for the first 1500.0 rows trained: 
+1. Second_person_pronouns 43.98
+2. First_person_pronouns 19.59
+3. Past_tense_verbs 19.25
+4. Adverbs 17.46
+5. Average_token_length 16.82
+6. Pos_verbs 16.02
+7. Common_nouns 6.76
+8. Upper_case 6.64
+9. Dashes 6.46
+10. Proper_nouns 5.56
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Common_nouns' 'Proper_nouns' 'Adverbs' 'Pos_verbs' 'Upper_case'
+ 'Average_token_length']
+*******************************************************
+Results for the first 2000.0 rows trained: 
+1. Second_person_pronouns 67.31
+2. First_person_pronouns 30.02
+3. Average_token_length 28.83
+4. Past_tense_verbs 22.56
+5. Adverbs 22.34
+6. Dashes 16.19
+7. Pos_verbs 15.71
+8. Third_person_pronouns 10.52
+9. Proper_nouns 9.45
+10. Parentheses 7.54
+['First_person_pronouns' 'Second_person_pronouns' 'Third_person_pronouns'
+ 'Past_tense_verbs' 'Dashes' 'Parentheses' 'Proper_nouns' 'Adverbs'
+ 'Pos_verbs' 'Average_token_length']
+*******************************************************
+Results for the first 2500.0 rows trained: 
+1. Second_person_pronouns 71.64
+2. Adverbs 30.77
+3. Past_tense_verbs 30.44
+4. Average_token_length 30.28
+5. First_person_pronouns 28.24
+6. Pos_verbs 23.21
+7. Dashes 15.18
+8. Proper_nouns 9.48
+9. Third_person_pronouns 5.78
+10. Colon_semi-colon_ellipsis 3.13
+['First_person_pronouns' 'Second_person_pronouns' 'Third_person_pronouns'
+ 'Past_tense_verbs' 'Colon_semi-colon_ellipsis' 'Dashes' 'Proper_nouns'
+ 'Adverbs' 'Pos_verbs' 'Average_token_length']
+*******************************************************
+Results for the first 3000.0 rows trained: 
+1. Second_person_pronouns 72.67
+2. First_person_pronouns 57.43
+3. Average_token_length 37.61
+4. Past_tense_verbs 34.21
+5. Adverbs 23.34
+6. Proper_nouns 18.49
+7. Pos_verbs 13.93
+8. Common_nouns 8.13
+9. Parentheses 7.32
+10. Coordinating conjunctions 6.71
+['First_person_pronouns' 'Second_person_pronouns'
+ 'Coordinating conjunctions' 'Past_tense_verbs' 'Parentheses'
+ 'Common_nouns' 'Proper_nouns' 'Adverbs' 'Pos_verbs'
+ 'Average_token_length']
+*******************************************************
+Results for the first 3500.0 rows trained: 
+1. Second_person_pronouns 77.51
+2. Past_tense_verbs 49.76
+3. Adverbs 43.24
+4. Average_token_length 39.97
+5. First_person_pronouns 36.32
+6. Pos_verbs 19.66
+7. Dashes 16.23
+8. Common_nouns 14.93
+9. Proper_nouns 12.17
+10. Parentheses 9.18
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Parentheses' 'Common_nouns' 'Proper_nouns' 'Adverbs'
+ 'Pos_verbs' 'Average_token_length']
+*******************************************************
+Results for the first 4000.0 rows trained: 
+1. Second_person_pronouns 85.88
+2. Past_tense_verbs 66.08
+3. Adverbs 65.59
+4. First_person_pronouns 47.86
+5. Average_token_length 46.25
+6. Pos_verbs 16.47
+7. Dashes 15.57
+8. Proper_nouns 13.17
+9. Common_nouns 13.14
+10. Parentheses 9.36
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Parentheses' 'Common_nouns' 'Proper_nouns' 'Adverbs'
+ 'Pos_verbs' 'Average_token_length']
+*******************************************************
+Results for the first 4500.0 rows trained: 
+1. Adverbs 71.44
+2. Second_person_pronouns 69.79
+3. Past_tense_verbs 68.99
+4. Average_token_length 62.46
+5. First_person_pronouns 51.90
+6. Dashes 19.08
+7. Proper_nouns 12.35
+8. Pos_verbs 11.80
+9. Common_nouns 11.60
+10. Wh_words 9.69
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Common_nouns' 'Proper_nouns' 'Adverbs' 'Wh_words' 'Pos_verbs'
+ 'Average_token_length']
+*******************************************************
+Results for the first 5000.0 rows trained: 
+1. Second_person_pronouns 90.13
+2. Past_tense_verbs 78.11
+3. Adverbs 66.95
+4. Average_token_length 60.71
+5. First_person_pronouns 52.93
+6. Proper_nouns 21.73
+7. Common_nouns 18.46
+8. Dashes 18.40
+9. Pos_verbs 15.55
+10. Wh_words 7.62
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Common_nouns' 'Proper_nouns' 'Adverbs' 'Wh_words' 'Pos_verbs'
+ 'Average_token_length']
+*******************************************************
+Results for the first 5500.0 rows trained: 
+1. First_person_pronouns 95.20
+2. Second_person_pronouns 91.58
+3. Average_token_length 76.53
+4. Past_tense_verbs 73.47
+5. Adverbs 65.98
+6. Dashes 31.27
+7. Pos_verbs 24.36
+8. Common_nouns 22.37
+9. Proper_nouns 18.60
+10. Wh_words 8.40
+['First_person_pronouns' 'Second_person_pronouns' 'Past_tense_verbs'
+ 'Dashes' 'Common_nouns' 'Proper_nouns' 'Adverbs' 'Wh_words' 'Pos_verbs'
+ 'Average_token_length']
+
+Process finished with exit code 0
