@@ -1,0 +1,22 @@
+There is a total of 2678 summed minimum MED scores.
+There are 47 cases where the summed minimum MED score is 0 . Thus, 1.755041075429425 % of summed minimum MED scores have a score of 0 .
+There are 184 cases where the summed minimum MED score is 1 . Thus, 6.870799103808813 % of summed minimum MED scores have a score of 1 .
+There are 307 cases where the summed minimum MED score is 2 . Thus, 11.463778939507096 % of summed minimum MED scores have a score of 2 .
+There are 308 cases where the summed minimum MED score is 3 . Thus, 11.501120238984317 % of summed minimum MED scores have a score of 3 .
+There are 295 cases where the summed minimum MED score is 4 . Thus, 11.015683345780433 % of summed minimum MED scores have a score of 4 .
+There are 279 cases where the summed minimum MED score is 5 . Thus, 10.418222554144885 % of summed minimum MED scores have a score of 5 .
+There are 245 cases where the summed minimum MED score is 6 . Thus, 9.148618371919342 % of summed minimum MED scores have a score of 6 .
+There are 229 cases where the summed minimum MED score is 7 . Thus, 8.551157580283794 % of summed minimum MED scores have a score of 7 .
+There are 182 cases where the summed minimum MED score is 8 . Thus, 6.796116504854369 % of summed minimum MED scores have a score of 8 .
+There are 145 cases where the summed minimum MED score is 9 . Thus, 5.414488424197162 % of summed minimum MED scores have a score of 9 .
+There are 102 cases where the summed minimum MED score is 10 . Thus, 3.8088125466766245 % of summed minimum MED scores have a score of 10 .
+There are 79 cases where the summed minimum MED score is 11 . Thus, 2.9499626587005228 % of summed minimum MED scores have a score of 11 .
+There are 59 cases where the summed minimum MED score is 12 . Thus, 2.2031366691560867 % of summed minimum MED scores have a score of 12 .
+There are 61 cases where the summed minimum MED score is 13 . Thus, 2.2778192681105303 % of summed minimum MED scores have a score of 13 .
+There are 30 cases where the summed minimum MED score is 14 . Thus, 1.1202389843166543 % of summed minimum MED scores have a score of 14 .
+There are 32 cases where the summed minimum MED score is 15 . Thus, 1.1949215832710978 % of summed minimum MED scores have a score of 15 .
+There are 17 cases where the summed minimum MED score is 16 . Thus, 0.6348020911127707 % of summed minimum MED scores have a score of 16 .
+There are 14 cases where the summed minimum MED score is 17 . Thus, 0.5227781926811053 % of summed minimum MED scores have a score of 17 .
+There are 13 cases where the summed minimum MED score is 18 . Thus, 0.4854368932038835 % of summed minimum MED scores have a score of 18 .
+There are 7 cases where the summed minimum MED score is 19 . Thus, 0.26138909634055263 % of summed minimum MED scores have a score of 19 .
+There are 43 cases where the summed minimum MED score is 20+ . Thus, 1.6056758775205378 % of summed minimum MED scores have a score of 20+ .
